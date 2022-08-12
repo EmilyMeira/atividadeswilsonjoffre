@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Gastronomia</title>
+    <link rel="stylesheet" href="style.css"
+  </head>
+  <body>
+    <img src="gastronomiaa.jpg" width="" height="500">
+    <h1>Sobre a Gastronomia</h1>
+    <p> <pre> <big>A gastronomia (do grego gastronomía) é um ramo de conhecimento que abrange a culinária, as bebidas, os materiais usados na alimentação e, em geral, todos os aspectos culturais a ela associados.</p> </big>
+    <p> <pre> <big>Também diz a respeito dos instrumentos para a preparação destes.Cabe ao profissional unir ingredientes de modo que se tornem resultados mais ou menos elaborados, originais ou básicos, mas muito bem-feitos.</p> </big>
+</html>
+<h1> Arte na Gastronomia</h1>
+<p> <pre> <big>Gastronomia é arte e seus agentes demonstram seus dotes na preparação e apresentação dos alimentos, segundo normas gastronômicas ou dietéticas, zelando pela harmonia entre os insumos, as especiarias e os ingredientes, pela combinação de tradição com criação.</p> </big>

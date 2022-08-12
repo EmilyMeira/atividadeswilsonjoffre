@@ -1,0 +1,9 @@
+body{
+  background-color: #FFFFFF
+}
+h1{
+  text-align: center;color:#190501
+}
+p{
+  color: #FFFFFF
+}
